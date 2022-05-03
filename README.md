@@ -22,10 +22,13 @@ Se tiene las siguientes instrucciones:
 👊 => Muestra el carácter actual representado por el código ASCII definido por la posición actual
 
 ## Datos Adicionales:
+
 Las celdas de memoria son bytes, de 0 a 255 valores, si disminuyes 0 obtendrás 255, si incrementas 255 obtendrás 0.
 
 # Prueba con resultado
+
 El valor enviado al programa es:
+
 👇🤜👇👇👇👇👇👇👇👉👆👈🤛👉👇👊👇🤜👇👉👆👆👆👆👆👈🤛👉👆👆👊👆👆👆👆👆👆👆👊👊👆👆👆👊
 
 El programa debería de responder “Hello”.
